@@ -1,0 +1,5 @@
+name: MongoBukkit
+main: cc.funkemunky.mongo.MongoBukkit
+description: Loads Mongo's libraries without you worrying about it.
+author: funkemunky
+version: 1.0
